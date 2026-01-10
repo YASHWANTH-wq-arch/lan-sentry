@@ -129,7 +129,7 @@ text
 Start the telemetry engine (Terminal 1):
 
 bash
-python3 phone.py
+./phone./sh
 You should see lines such as:
 
 text
