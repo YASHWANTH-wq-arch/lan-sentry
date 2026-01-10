@@ -84,7 +84,7 @@ These reconnaissance steps are the foundation that phone.py automates.
 4. Project structure
 Inside the lan-sentry directory:
 
-phone.py
+./phone.sh
 Telemetry engine:
 
 Pings the phone periodically.
